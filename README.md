@@ -14,7 +14,7 @@ To install and configure HCL interpreter, please refer to the project's [README]
 
 HCL has two modes:
 
-1. The **REPL** mode: The infamous **R**ead **E**val **P**rint **L**oop mode. This Opens up an interactive session in which you can execute simple commands.
+1. The **REPL** mode: The famous **R**ead **E**val **P**rint **L**oop mode. This Opens up an interactive session in which you can execute simple commands.
 2. The **Execution** mode: You'll pass an `.hcl` file to the interpreter, and it will be interpreted.
 
 For simple programs, the REPL mode is enough. But if you want to use the language for complex tasks, you need to use the interpreter.
