@@ -5,3 +5,4 @@
 ## Syntax and Semantics <a href="#syntax" id="syntax"></a>
 
 * [Coding in HCL](syntax/coding-in-hcl.md)
+* [Built-in Functions](syntax/built-in-functions.md)
